@@ -1,0 +1,28 @@
+name: Isabella Abbonizio
+favicon: null
+layout_spectrum: 0.15633699973113835
+typography_spectrum: 0.7272372415754944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.0699851072859019
+  lightness: 0.8819111722987145
+  saturation: 0.621661469573155
+  rhythmicContrast: 0.7422290770336986
+purpose: []
